@@ -1,2 +1,3 @@
-# Microservices-boilerplate-V1
+# Microservices-JobReddit
+
 Microservices vs monolithic services
