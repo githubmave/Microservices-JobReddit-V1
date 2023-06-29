@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../53-event-syncing-action"
+		},
+		{
+			"path": "../59-dockerizing-posts"
+		}
+	],
+	"settings": {}
+}
